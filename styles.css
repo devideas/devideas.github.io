@@ -89,6 +89,10 @@ a:active:focus {
 /* Subscription Form */
 /* --------------------------- */
 
+.archive-link {
+	width: 435px;
+}
+
 .subscribe-form {
 	text-align: center;
 	margin-top: 48px;
@@ -173,6 +177,9 @@ a:active:focus {
 @media (max-width: 483px) {
 	.subscribe-button {
 		margin-top: 8px;
+		width: 300px;
+	}
+	.archive-link {
 		width: 300px;
 	}
 }
