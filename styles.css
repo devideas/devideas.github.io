@@ -9,7 +9,6 @@ body {
 }
 
 .main-content {
-
 	margin-bottom: 48px;
 	padding: 0 24px;
 }
@@ -82,6 +81,10 @@ a:active:focus {
 	color: #E38323;
 }
 
+.text-cancel {
+	color: #ff0000;
+}
+
 /* =========================== */
 /* MODULES */
 /* =========================== */
@@ -129,7 +132,7 @@ a:active:focus {
 	background-color: #FFBF00;
 }
 
-.subscribe-button:focus, 
+.subscribe-button:focus,
 .subscribe-button:active,
 .subscribe-button:focus:active {
 	outline: none;
